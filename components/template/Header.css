@@ -1,0 +1,10 @@
+header.header{
+  background-image: linear-gradient(to right, rgba(167, 140, 112, rgba(255, 205, 155, 0.397))) ; /*Cor do fundo*/
+  padding: 0px 15px; /*Separar o */
+  overflow: hidden; /* */
+  white-space: nowrap; /* */
+  box-shadow: var(--shadow); /* */
+}
+header.header.h1{
+  font-size: 1.8em; /* */
+}
